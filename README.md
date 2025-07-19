@@ -29,7 +29,7 @@ Code source: [Standard Quadratic](https://colab.research.google.com/drive/1CzeeJ
 
 ## Link to Codes Generalized Matching Pursuit, Method
 
-#### Least Squares Problem
+#### Least Squares Problem (convex)
 Code source: [Least Squares Problem](https://colab.research.google.com/drive/1oNiQI9UJYzvieVKH5dJWWJlwWJ75qbZa?usp=sharing)
 
 #### Least Squares Sigmoid Problem (non-convex)
@@ -42,8 +42,8 @@ Code source: [Sum of Squares](https://colab.research.google.com/drive/1z9UzEOIMP
 #### Rosenbrock Function (non-convex)
 Code source: [Rosenbrock Function](https://colab.research.google.com/drive/1P9BlywY9bOBtFjSAJqZmR-SGa557m3rd?usp=sharing)
 
-#### Lévy Function
+#### Lévy Function (non-convex)
 Code source: [Lévy Function](https://colab.research.google.com/drive/1Sc9SWSXQ8fMR7JV_jsJeaHO13sDKJYnl?usp=sharing)
 
-#### Zakharov Function
+#### Zakharov Function (convex)
 Code source: [Zakharov Function](https://colab.research.google.com/drive/1bORcE6BbQSsydD2Al0Ostaw-Zae1YqG7?usp=sharing)
