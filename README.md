@@ -10,11 +10,9 @@ Code source: [Lasso Problem](https://colab.research.google.com/drive/113S3SoQrE4
 Code source: [Matrix Balancing](https://colab.research.google.com/drive/1eKZ63-aiPvLst5cz6YMF5sf33nAX76Bl?usp=sharing)
 
 #### Logistic Regression Problem
-Code source Random: [Logistic Regression Problem random](https://colab.research.google.com/drive/1iWEuwI75NvVO1LKv7D1t6GGV8ObhIbHa?usp=sharing#scrollTo=5mgF9lZ2XUG9)  
 Code source LIBSVM data a1a: [Logistic Regression Problem a1a](https://colab.research.google.com/drive/1xG6iRLep_GC1jTEVL78IC2vsL4KTYKz-?usp=sharing)
 
 #### Least Squares Sigmoid Regression Problem (non-convex)
-Code source: [Sigmoid Regression](https://colab.research.google.com/drive/1_KkZuD6O-pDAE4RoAIkXOezWKEa1od68)  
 Code source a1a: [Sigmoid Regression a1a](https://colab.research.google.com/drive/1nhrbJBycWSC6HtSlvPoz1Lqrru_CQO-9?usp=sharing)
 
 #### Video Co-Localization
@@ -33,7 +31,6 @@ Code source: [Standard Quadratic](https://colab.research.google.com/drive/1CzeeJ
 Code source: [Least Squares Problem](https://colab.research.google.com/drive/1oNiQI9UJYzvieVKH5dJWWJlwWJ75qbZa?usp=sharing)
 
 #### Least Squares Sigmoid Problem (non-convex)
-Code source random: [LSS random](https://colab.research.google.com/drive/1m6GALCedU0OCCXBuh7pHGeS6w0_iASH0?usp=sharing)  
 Code source LIBSVM data a1a: [LSS a1a](https://colab.research.google.com/drive/1rxKHtf2z4_VVVd2zeoUNkS3pYPHMLj5s#scrollTo=-ccvoIxEfiWu)
 
 #### Sum of Squares Problem (non-convex)
