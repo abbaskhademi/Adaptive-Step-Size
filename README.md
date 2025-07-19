@@ -1,5 +1,6 @@
-# Adaptive-Step-Size
-In progress ...
+# Adaptive step-sizes for algorithms using linear minimization oracles
+The codes and data in this repository are a snapshot of that were used in the research reported on in the paper 
+*Adaptive step-sizes for algorithms using linear minimization oracles* by A. Khademi and A. Silveti-Falls.
 
 ## Link to Codes Conditional Gradient Method
 
