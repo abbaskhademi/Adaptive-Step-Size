@@ -25,7 +25,7 @@ Code source: [Collaborative Filtering](https://colab.research.google.com/drive/1
 Code source: [Standard Quadratic](https://colab.research.google.com/drive/1CzeeJ1ZQCaTSyxD9Al1F-VdKk3HUcQ8B#scrollTo=WMwaR38NObjE&uniqifier=1)
 
 
-## Link to Codes Generalized Matching Pursuit, Method
+## Link to Codes Generalized Matching Pursuit Method
 
 #### Least Squares Problem (convex)
 Code source: [Least Squares Problem](https://colab.research.google.com/drive/1oNiQI9UJYzvieVKH5dJWWJlwWJ75qbZa?usp=sharing)
