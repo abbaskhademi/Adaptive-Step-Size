@@ -3,7 +3,7 @@ The codes and data in this repository are a snapshot of that were used in the re
 *Adaptive step-sizes for algorithms using linear minimization oracles* by A. Khademi and A. Silveti-Falls.
 
 ## Link to Codes Conditional Gradient Method
-
+Online Jupyter Notebooks via Google Colab are available:
 #### Lasso Problem
 Code source: [Lasso Problem](https://colab.research.google.com/drive/113S3SoQrE4FoCc1V0nyStjj9zKEnG2gi?usp=sharing#scrollTo=rPNDFE1YG3CO)
 
@@ -27,7 +27,7 @@ Code source: [Standard Quadratic](https://colab.research.google.com/drive/1CzeeJ
 
 
 ## Link to Codes Generalized Matching Pursuit Method
-
+Online Jupyter Notebooks via Google Colab are available:
 #### Least Squares Problem (convex)
 Code source: [Least Squares Problem](https://colab.research.google.com/drive/1oNiQI9UJYzvieVKH5dJWWJlwWJ75qbZa?usp=sharing)
 
