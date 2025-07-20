@@ -2,6 +2,16 @@
 The codes and data in this repository are a snapshot of that were used in the research reported on in the paper 
 *Adaptive step-sizes for algorithms using linear minimization oracles* by A. Khademi and A. Silveti-Falls.
 
+If you found this work useful in your research and/or applications, please star this repository and cite:
+
+```bibtex
+@article{Adaptive2025,
+  title={Adaptive step-sizes for algorithms using linear minimization oracles},
+  author={Khademi, Abbas and Silveti-Falls, Antonio},
+  journal={Optimization Online},
+  year={2025}
+}
+
 ## Link to Codes Conditional Gradient Method
 Online Jupyter Notebooks via Google Colab are available:
 #### Lasso Problem
