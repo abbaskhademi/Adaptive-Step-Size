@@ -11,6 +11,7 @@ If you found this work useful in your research and/or applications, please star 
   journal={Optimization Online},
   year={2025}
 }
+```
 
 ## Link to Codes Conditional Gradient Method
 Online Jupyter Notebooks via Google Colab are available:
