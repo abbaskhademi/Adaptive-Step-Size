@@ -56,3 +56,13 @@ Code source: [Lévy Function](https://colab.research.google.com/drive/1Sc9SWSXQ8
 
 #### Zakharov Function (convex)
 Code source: [Zakharov Function](https://colab.research.google.com/drive/1bORcE6BbQSsydD2Al0Ostaw-Zae1YqG7?usp=sharing)
+
+# Contact
+
+We appreciate your interest in our work. For questions, issues with the scripts, or feedback, please contact:
+
+A. Khademi: abbaskhademi92@gmail.com
+
+A. Silveti-Falls: tonys.falls@gmail.com
+
+If you find this work useful for your research, please cite the paper and repository as indicated in the Citation section.
