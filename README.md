@@ -5,11 +5,14 @@ The codes and data in this repository are a snapshot of that were used in the re
 If you found this work useful in your research and/or applications, please star this repository and cite:
 
 ```bibtex
-@article{Adaptive2025,
-  title={Adaptive Conditional Gradient Descent},
-  author={Khademi, Abbas and Silveti-Falls, Antonio},
-  journal={Optimization Online},
-  year={2025}
+@article{khademi2025adaptiveconditionalgradientdescent,
+      title={Adaptive Conditional Gradient Descent},
+      author={Abbas Khademi and Antonio Silveti-Falls},
+      year={2025},
+      eprint={2510.11440},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2510.11440},
 }
 ```
 
