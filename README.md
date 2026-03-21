@@ -39,6 +39,12 @@ Code source: [Collaborative Filtering](https://colab.research.google.com/drive/1
 #### Standard Quadratic Optimization Problem (non-convex)
 Code source: [Standard Quadratic](https://colab.research.google.com/drive/1CzeeJ1ZQCaTSyxD9Al1F-VdKk3HUcQ8B#scrollTo=WMwaR38NObjE&uniqifier=1)
 
+#### Matrix Factorization (non-convex)
+Code source: [Matrix Factorization](https://colab.research.google.com/drive/1BsPeauRBUzBskgtRT4O6lbaZpixdosDi?usp=sharing)
+
+#### Traffic Assignment
+Code source: [Traffic Assignment](https://colab.research.google.com/drive/1trwRclvlYnWQGksVwFw9cJrmogu0zjXd?usp=sharing)
+
 
 ## Link to Codes Normalized Steepest Descent Method
 Online Jupyter Notebooks via Google Colab are available:
@@ -59,6 +65,9 @@ Code source: [Lévy Function](https://colab.research.google.com/drive/1Sc9SWSXQ8
 
 #### Zakharov Function (convex)
 Code source: [Zakharov Function](https://colab.research.google.com/drive/1bORcE6BbQSsydD2Al0Ostaw-Zae1YqG7?usp=sharing)
+
+#### Logistic Regression with Regularization (convex)
+Code source: [Logistic Regression with Regularization](https://colab.research.google.com/drive/1rJeM3CPcX3cXyaIptRBZr0fF_NzPa1jf?usp=sharing)
 
 # Contact
 
