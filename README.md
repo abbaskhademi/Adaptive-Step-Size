@@ -17,7 +17,7 @@ If you found this work useful in your research and/or applications, please star 
 ```
 
 ## Link to Codes Conditional Gradient Method
-Online Jupyter Notebooks via Google Colab are available:
+All experiments are available as interactive Jupyter notebooks hosted on Google Colab. Click the links below to run the code directly in your browser.
 #### Lasso Problem
 Code source: [Lasso Problem](https://colab.research.google.com/drive/113S3SoQrE4FoCc1V0nyStjj9zKEnG2gi?usp=sharing#scrollTo=rPNDFE1YG3CO)
 
